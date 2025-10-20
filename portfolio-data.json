@@ -1,0 +1,129 @@
+{
+  "settings": {
+    "name": "Bukya Swapna",
+    "title": "Associate",
+    "location": "India",
+    "summary": "Experienced IT professional with expertise in Java, Springboot, API testing, and database management, contributing to innovative solutions.",
+    "profileImage": "https://lh3.googleusercontent.com/pw/AP1GczMIX5wP3duhzrqBbMT_URd-MB7UzWgnIBP7nVx6PnVZtf7r5eX_ZA4TBn8toK4_ptvLVtXGzkdIZsgw-hcdR3oXeonIZZnMU5zjFqSo2VyNnsTu50yQWqyE4akbXxPwDJofxKHC64Ck9Azb4UuG97NgMw=w728-h853-s-no-gm?authuser=0"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:bswapna0207@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "#"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "Java",
+          "Springboot",
+          "Postman API Testing",
+          "Oracle",
+          "Dynatrace",
+          "mRemoteNG",
+          "Service Now",
+          "DBeaver",
+          "Jenkins",
+          "UNIX",
+          "Linux",
+          "Oracle Programming",
+          "Eclipse IDE",
+          "MySQL"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "Cognizant Technologies",
+          "position": "Associate",
+          "period": "Nov 2022 - Present",
+          "description": "Worked on the DIRECTV project, an insurance application collecting data from various vendors. Responsibilities included problem analysis, monitoring systems, bug fixing, database creation, and API development using Spring Boot."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": false,
+      "title": "Featured Projects",
+      "items": []
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Geethanjali college of Engineering & Technology, Hyderabad (JNTU)",
+          "degree": "B-tech in Electronics and Communication Engineering",
+          "period": "2018 - 2022"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "AWS Cloud Practitioner",
+          "description": "AWS Cloud Practitioner Certification"
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "bswapna0207@gmail.com",
+      "phone": "+91-9553038142",
+      "location": "India"
+    },
+    "social": {
+      "enabled": false,
+      "items": []
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Bukya Swapna. All rights reserved."
+  }
+}
